@@ -27,15 +27,16 @@ El proyecto utiliza Serenity BDD para generar informes detallados y claros sobre
 
 ## Informe One Page
 El informe "One Page" es un resumen conciso de los resultados de las pruebas. Proporciona una visión general de los casos de prueba ejecutados, los resultados de cada caso de prueba y los pasos que se llevaron a cabo durante la ejecución. Este informe es ideal para obtener una visión rápida de la calidad de las pruebas y los resultados obtenidos.
-Url:
+pdf:
 
+Url:
+https://github.com/stormtrooper96/registerPruebablossom/blob/master/reportes/site/serenity/index.html
+![unicapagina.png](reportes%2Funicapagina.png)
 ## **Informe Detallado**
 El informe "Detallado" ofrece una visión más completa de la ejecución de las pruebas. Proporciona información detallada sobre cada caso de prueba, incluyendo los pasos ejecutados, los resultados obtenidos y cualquier captura de pantalla relevante. Además, este informe incluye métricas adicionales como el tiempo de ejecución, la cobertura de código y los errores encontrados. Es especialmente útil para un análisis exhaustivo de los resultados y la identificación de posibles problemas o áreas de mejora.
+![detallado.png](reportes%2Fdetallado.png)
 Url:
-
-## **Informe Detallado**
-El informe "Detallado" ofrece una visión más completa de la ejecución de las pruebas. Proporciona información detallada sobre cada caso de prueba, incluyendo los pasos ejecutados, los resultados obtenidos y cualquier captura de pantalla relevante. Además, este informe incluye métricas adicionales como el tiempo de ejecución, la cobertura de código y los errores encontrados. Es especialmente útil para un análisis exhaustivo de los resultados y la identificación de posibles problemas o áreas de mejora.
-Url:
+https://github.com/stormtrooper96/registerPruebablossom/blob/master/reportes/site/serenity/serenity-summary.html
 
 ## Escenario de pruebas  
 ```gherkin
@@ -57,7 +58,10 @@ Examples:
 | First Name | Last Name | Address | City | State | Zip Code | Phone Number | SSN | Username | Password | Confirm Password |
 | John | Doe | 123 Main St | Miami | FL | 12345 | 1234567890 | 3123456789 | JohnDoe4 | mypassword | mypassword |
 ```
+
 Describe el escenario de un registro exitoso con todos los campos requeridos. Jhon, como usuario, comienza en la página de registro. Él ingresa su información personal, incluyendo su nombre, apellido y dirección. Luego ingresa su ciudad, estado y código postal. Jhon también proporciona su número de teléfono y SSN (número de seguro social). Establece su nombre de usuario con un número aleatorio y elige una contraseña, junto con su confirmación. Después de ingresar todos los detalles, hace clic en el botón de registro. Jhon espera ver un mensaje de éxito de registro y toma una captura de pantalla como referencia. La tabla de ejemplos proporciona valores específicos para los diferentes campos utilizados en el escenario.
+El screenshot tomado en el ultimo paso se puede ver en la siguiente ruta:
+[target/screenshot.png](target/screenshot.png)
 
 ## Ejecución de las pruebas
 Para ejecutar el proyecto de muestra, puedes simplemente ejecutar la clase de prueba CucumberTestSuite en el paquete com.jandrespardos.registerBlossom.runner, o ejecutar mvn verify
