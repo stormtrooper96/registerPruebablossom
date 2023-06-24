@@ -1,0 +1,16 @@
+com\jandrespardos\registerBlossom\questions\TakeScreenshot.class
+com\jandrespardos\registerBlossom\util\RandomNumber.class
+com\jandrespardos\registerBlossom\tasks\NavigateToRegistrationPage.class
+com\jandrespardos\registerBlossom\util\ScreenshotUtil.class
+com\jandrespardos\registerBlossom\tasks\EnterSsn.class
+com\jandrespardos\registerBlossom\tasks\SubmitForm.class
+com\jandrespardos\registerBlossom\tasks\EnterLocationInformation.class
+com\jandrespardos\registerBlossom\CucumberTestSuite.class
+com\jandrespardos\registerBlossom\tasks\EnterPhoneNumber.class
+com\jandrespardos\registerBlossom\tasks\EnterPersonalInfoBasic.class
+com\jandrespardos\registerBlossom\steps\RegistrationStepdefs.class
+com\jandrespardos\registerBlossom\questions\HavewelcomeMessage.class
+com\jandrespardos\registerBlossom\model\RegisterPage.class
+com\jandrespardos\registerBlossom\tasks\TakeScreenshotTask.class
+com\jandrespardos\registerBlossom\tasks\VerifyRegistrationSuccessMessage.class
+com\jandrespardos\registerBlossom\tasks\EnterCredentials.class

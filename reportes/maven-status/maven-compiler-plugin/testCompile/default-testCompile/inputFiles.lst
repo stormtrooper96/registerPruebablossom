@@ -1,0 +1,16 @@
+D:\data\Documents\GitHub\registerPruebablossom\src\test\java\com\jandrespardos\registerBlossom\tasks\TakeScreenshotTask.java
+D:\data\Documents\GitHub\registerPruebablossom\src\test\java\com\jandrespardos\registerBlossom\util\ScreenshotUtil.java
+D:\data\Documents\GitHub\registerPruebablossom\src\test\java\com\jandrespardos\registerBlossom\CucumberTestSuite.java
+D:\data\Documents\GitHub\registerPruebablossom\src\test\java\com\jandrespardos\registerBlossom\util\RandomNumber.java
+D:\data\Documents\GitHub\registerPruebablossom\src\test\java\com\jandrespardos\registerBlossom\steps\RegistrationStepdefs.java
+D:\data\Documents\GitHub\registerPruebablossom\src\test\java\com\jandrespardos\registerBlossom\tasks\SubmitForm.java
+D:\data\Documents\GitHub\registerPruebablossom\src\test\java\com\jandrespardos\registerBlossom\tasks\EnterSsn.java
+D:\data\Documents\GitHub\registerPruebablossom\src\test\java\com\jandrespardos\registerBlossom\questions\TakeScreenshot.java
+D:\data\Documents\GitHub\registerPruebablossom\src\test\java\com\jandrespardos\registerBlossom\tasks\EnterLocationInformation.java
+D:\data\Documents\GitHub\registerPruebablossom\src\test\java\com\jandrespardos\registerBlossom\tasks\EnterCredentials.java
+D:\data\Documents\GitHub\registerPruebablossom\src\test\java\com\jandrespardos\registerBlossom\tasks\EnterPhoneNumber.java
+D:\data\Documents\GitHub\registerPruebablossom\src\test\java\com\jandrespardos\registerBlossom\tasks\EnterPersonalInfoBasic.java
+D:\data\Documents\GitHub\registerPruebablossom\src\test\java\com\jandrespardos\registerBlossom\tasks\NavigateToRegistrationPage.java
+D:\data\Documents\GitHub\registerPruebablossom\src\test\java\com\jandrespardos\registerBlossom\tasks\VerifyRegistrationSuccessMessage.java
+D:\data\Documents\GitHub\registerPruebablossom\src\test\java\com\jandrespardos\registerBlossom\model\RegisterPage.java
+D:\data\Documents\GitHub\registerPruebablossom\src\test\java\com\jandrespardos\registerBlossom\questions\HavewelcomeMessage.java
